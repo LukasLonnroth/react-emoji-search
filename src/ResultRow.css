@@ -1,0 +1,15 @@
+.result-row {
+  padding: 10px;
+  border-bottom: solid 2px #eee;
+  list-style-type: none;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.result-row img {
+  margin-right: 10px;
+}
+.result-row:hover {
+  background-color: #eee;
+}

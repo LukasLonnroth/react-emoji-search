@@ -1,2 +1,1 @@
-# react-emoji-search
-Created with CodeSandbox
+https://react-emoji-search.herokuapp.com/
