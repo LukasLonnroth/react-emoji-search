@@ -1,8 +1,14 @@
 .header {
-  padding: 10px 0px;
   background-color: darkgray;
   color: white;
   font-size: 30px;
+  margin: 0;
+}
+p {
+  padding: 10px 0px;
+  background-color: darkgray;
+  color: white;
+  font-size: 11px;
 }
 
 .header img {
